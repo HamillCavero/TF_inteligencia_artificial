@@ -1,5 +1,4 @@
-# import keyboard as keyboard
-import pygame, sys
+import pygame
 
 Estados = ("Nace", "Camina", "Come", "Busca_comida",
            "Ataca", "Reproduce", "Busca_pareja", "Muere")

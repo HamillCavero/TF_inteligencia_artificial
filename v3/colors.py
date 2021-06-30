@@ -1,4 +1,4 @@
-# Define los coles a usarse, pueden agregarse mas
+# Define that will be used at the start of the simulation, we can add more later
 RED = (230, 25, 75)
 GREEN = (60, 180, 75)
 YELLOW = (255, 225, 25)
